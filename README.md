@@ -8,7 +8,7 @@ Today this happens in group chats and Instagram stories, where listings get buri
 
 ## Features
 
-- [ ] Seeded list of 2026 USC home games
+- [x] Seeded list of 2026 USC home games
 - [ ] Sign-in restricted to `@usc.edu` emails
 - [ ] Browse listings by game, filtered by have/want, section type, and price
 - [ ] Create a listing with a form

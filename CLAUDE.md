@@ -32,7 +32,7 @@ Ask me before adding any other library or service.
 - Env vars: copy `.env.example` to `.env.local` and fill in the keys
 
 ## Features (v1, build in this order)
-- [ ] Seeded game list (USC home games for the season, with dates and opponents)
+- [x] Seeded game list (USC home games for the season, with dates and opponents)
 - [ ] Sign-in restricted to `@usc.edu` emails
 - [ ] Browse listings by game, filtered by have/want, section type, and price
 - [ ] Create a listing with a form
